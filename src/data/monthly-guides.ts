@@ -148,7 +148,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Machame & Lemosho Gates",
       desc: "The dry climbing season officially begins. Clear blue skies, crisp alpine air, and excellent trail conditions make June perfect to summit Uhuru Peak.",
       activityId: "hiking",
-      img: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800",
+      img: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800#pos=bottom",
       bucketList: true,
       bucketListIndex: "#1",
       bucketListTitle: "REACHING THE ROOF OF AFRICA",
@@ -202,7 +202,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Mount Meru volcanic rim",
       desc: "Take on a rugged trekking challenge. Summit Mount Meru (4,562m) under clear dry skies with breathtaking views of Mount Kilimanjaro rising in the distance.",
       activityId: "hiking",
-      img: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800"
+      img: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800#pos=bottom"
     }
   ],
   september: [

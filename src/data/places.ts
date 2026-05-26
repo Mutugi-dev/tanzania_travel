@@ -28,9 +28,9 @@ export const PLACES: Place[] = [
     badge: "SAFARI CROWN JEWEL",
     desc: "Vast golden grasslands, classic acacia thorn trees, and massive animal migrations. Serengeti offers unmatched sightings of prides of lions, cheetah sprints, and the epic Wildebeest Great Migration.",
     images: {
-      card: "https://images.pexels.com/photos/10222036/pexels-photo-10222036.jpeg?auto=compress&cs=tinysrgb&w=800",
-      banner: "https://images.pexels.com/photos/10222036/pexels-photo-10222036.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      map: "https://images.pexels.com/photos/10222036/pexels-photo-10222036.jpeg?auto=compress&cs=tinysrgb&w=300"
+      card: "https://images.pexels.com/photos/10222036/pexels-photo-10222036.jpeg?auto=compress&cs=tinysrgb&w=800#pos=bottom",
+      banner: "https://images.pexels.com/photos/10222036/pexels-photo-10222036.jpeg?auto=compress&cs=tinysrgb&w=1200#pos=bottom",
+      map: "https://images.pexels.com/photos/10222036/pexels-photo-10222036.jpeg?auto=compress&cs=tinysrgb&w=300#pos=bottom"
     },
     coords: "2.1540° S, 34.6857° E",
     temp: "26°C / 78°F",
@@ -66,9 +66,9 @@ export const PLACES: Place[] = [
     badge: "THE ROOF OF AFRICA",
     desc: "Tanzania's sleeping volcanic giant is the highest free-standing mountain in the world (5,895m). Traverse through 5 distinct climatic zones, from tropical rain forests to absolute arctic glaciers.",
     images: {
-      card: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800",
-      banner: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      map: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=300"
+      card: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800#pos=bottom",
+      banner: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=1200#pos=bottom",
+      map: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=300#pos=bottom"
     },
     coords: "3.0674° S, 37.3556° E",
     temp: "-5°C / 23°F (Summit)",
