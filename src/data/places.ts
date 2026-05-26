@@ -66,9 +66,9 @@ export const PLACES: Place[] = [
     badge: "THE ROOF OF AFRICA",
     desc: "Tanzania's sleeping volcanic giant is the highest free-standing mountain in the world (5,895m). Traverse through 5 distinct climatic zones, from tropical rain forests to absolute arctic glaciers.",
     images: {
-      card: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800#pos=bottom",
-      banner: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=1200#pos=bottom",
-      map: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=300#pos=bottom"
+      card: "https://images.pexels.com/photos/10804209/pexels-photo-10804209.jpeg?auto=compress&cs=tinysrgb&w=800#pos=bottom",
+      banner: "https://images.pexels.com/photos/10804209/pexels-photo-10804209.jpeg?auto=compress&cs=tinysrgb&w=1200#pos=bottom",
+      map: "https://images.pexels.com/photos/10804209/pexels-photo-10804209.jpeg?auto=compress&cs=tinysrgb&w=300#pos=bottom"
     },
     coords: "3.0674° S, 37.3556° E",
     temp: "-5°C / 23°F (Summit)",

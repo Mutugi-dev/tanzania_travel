@@ -49,7 +49,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Serengeti Plains • Ndutu Area",
       desc: "Witness the miracle of life in the southern Serengeti plains. Over 500,000 wildebeest calves are born within a 3-week window, attracting prides of hunting lions and leopards.",
       activityId: "safari",
-      img: "https://images.unsplash.com/photo-1603486002664-a7319421e133?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.pexels.com/photos/11895511/pexels-photo-11895511.jpeg?auto=format&fit=crop&w=800&q=80"
     },
     {
       id: "february-whale-shark",
@@ -58,7 +58,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Mafia Island Marine Park",
       desc: "Swim alongside gentle giants. February is the absolute peak feeding season for whale sharks migrating in the warm waters off Mafia Island Marine Park.",
       activityId: "snorkeling",
-      img: "https://images.unsplash.com/photo-1551244072-5d12893278ab?auto=format&fit=crop&w=800&q=80",
+      img: "https://images.pexels.com/photos/7905797/pexels-photo-7905797.jpeg?auto=compress&cs=tinysrgb&w=800",
       bucketList: true,
       bucketListIndex: "MID",
       bucketListTitle: "DRIFTING WITH THE WHALE SHARKS",
@@ -74,7 +74,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Zanzibar Island Sandbanks",
       desc: "Set sail at the vernal equity. Explore pristine isolated sandbanks, enjoy private seafood beach barbecues, and snorkel shallow marine conservation reefs.",
       activityId: "dhow-cruises",
-      img: "https://images.unsplash.com/photo-1516690561799-46d8f74f9abf?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.pexels.com/photos/27742231/pexels-photo-27742231.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       id: "march-meru-hiking",
@@ -83,6 +83,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Mount Meru Conservation Area",
       desc: "Enjoy active day hikes through lush montane forests. Spot black-and-white colobus monkeys and enjoy beautiful waterfalls flowing off the volcanic slopes.",
       activityId: "hiking",
+      img: "https://images.pexels.com/photos/12738166/pexels-photo-12738166.jpeg?auto=compress&cs=tinysrgb&w=800",
       bucketList: true,
       bucketListIndex: "#6",
       bucketListTitle: "DISCOVERING THE HIDDEN FALLS",
@@ -111,7 +112,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Stone Town Spices & Markets",
       desc: "Take part in interactive Swahili cooking classes. Gather fresh cardamom and coconut from local trees, and cook dynamic coconut seafood curries.",
       activityId: "swahili-cuisine",
-      img: "https://images.unsplash.com/photo-1506477331477-33d5d8b3dc85?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-r_UUezIShIw?auto=format&fit=crop&w=800&q=80"
     }
   ],
   may: [
@@ -148,7 +149,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Machame & Lemosho Gates",
       desc: "The dry climbing season officially begins. Clear blue skies, crisp alpine air, and excellent trail conditions make June perfect to summit Uhuru Peak.",
       activityId: "hiking",
-      img: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800#pos=bottom",
+      img: "https://images.pexels.com/photos/10804209/pexels-photo-10804209.jpeg?auto=compress&cs=tinysrgb&w=800#pos=bottom",
       bucketList: true,
       bucketListIndex: "#1",
       bucketListTitle: "REACHING THE ROOF OF AFRICA",
@@ -162,7 +163,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Zanzibar Marine Sanctuary",
       desc: "Explore absolute marine paradise. Under crystal-clear June waters, dive with pods of wild dolphins and green sea turtles in coral reefs.",
       activityId: "snorkeling",
-      img: "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-9y7y26C-l4Y?auto=format&fit=crop&w=800&q=80"
     }
   ],
   july: [
@@ -173,7 +174,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Northern Serengeti Corridor",
       desc: "Observe the crown jewel of African safaris: thousands of wildebeests braving the strong currents of the Mara River at the Kenyan border.",
       activityId: "safari",
-      img: "https://images.unsplash.com/photo-1519074002996-a69e7ac46a42?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-HjvpwKGD_FE?auto=format&fit=crop&w=800&q=80"
     },
     {
       id: "july-ziff",
@@ -182,7 +183,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Stone Town Historic Center",
       desc: "Immerse yourself in Swahili film and music heritage. Stone Town comes alive with traditional Taarab concerts and craft street markets.",
       activityId: "swahili-culture",
-      img: "https://images.unsplash.com/photo-1513829096999-4978602294fc?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.pexels.com/photos/35564244/pexels-photo-35564244.jpeg?auto=compress&cs=tinysrgb&w=800"
     }
   ],
   august: [
@@ -193,7 +194,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Paje Beach South-East",
       desc: "Catch the Kusi winds. Paje Beach becomes a vibrant hotspot as professional and beginner kite surfers glide across Zanzibar's shallow turquoise lagoons.",
       activityId: "kite-surfing",
-      img: "https://images.unsplash.com/photo-1508962914676-134849a727f0?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.pexels.com/photos/13211818/pexels-photo-13211818.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       id: "august-meru-summit",
@@ -202,7 +203,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Mount Meru volcanic rim",
       desc: "Take on a rugged trekking challenge. Summit Mount Meru (4,562m) under clear dry skies with breathtaking views of Mount Kilimanjaro rising in the distance.",
       activityId: "hiking",
-      img: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800#pos=bottom"
+      img: "https://images.pexels.com/photos/12738166/pexels-photo-12738166.jpeg?auto=compress&cs=tinysrgb&w=800"
     }
   ],
   september: [
@@ -213,7 +214,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Pemba Channel Waters",
       desc: "Take part in high-visibility ocean runs. The deep trenches of the Pemba Channel offer prime conditions for catching sailfish, marlins, and yellowfin tuna.",
       activityId: "deep-sea-fishing",
-      img: "https://images.unsplash.com/photo-1615859131861-052f0641a60e?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-6_HqvY1E7NI?auto=format&fit=crop&w=800&q=80"
     },
     {
       id: "september-tortoise-encounters",
@@ -222,7 +223,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Changuu Prison Island",
       desc: "Cross the waters by dhow to visit Prison Island. Hand-feed giant Aldabra tortoises, some over 150 years old, and swim in calm surrounding sands.",
       activityId: "zanzibar-escape",
-      img: "https://images.unsplash.com/photo-1548782302-602d5145b23e?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-1535262412227-85541e910204?auto=format&fit=crop&w=800&q=80"
     }
   ],
   october: [
@@ -241,7 +242,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Mafia & Zanzibar islands",
       desc: "Optimal underwater visibility. Dive deep walls, swim in tropical fish schools, and photograph marine conservation reefs under gentle October breezes.",
       activityId: "snorkeling",
-      img: "https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-9y7y26C-l4Y?auto=format&fit=crop&w=800&q=80"
     }
   ],
   november: [
@@ -252,7 +253,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Lake Natron Salt Flats",
       desc: "Watch millions of pink lesser flamingos gather to breed in the warm, mineral-rich salt flats of Lake Natron. An unmatched visual photography feast.",
       activityId: "bird-watching",
-      img: "https://images.unsplash.com/photo-1480040829890-48343240e257?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-T0hhz0_Lydc?auto=format&fit=crop&w=800&q=80"
     },
     {
       id: "november-savannah-rebirth",
@@ -261,7 +262,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Serengeti Endless Grasslands",
       desc: "Witness the savannah turn deep green. The short rains trigger a sudden rebirth of golden grasslands, welcoming back migratory wildebeest herds.",
       activityId: "safari",
-      img: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-oymHjI4qPJI?auto=format&fit=crop&w=800&q=80"
     }
   ],
   december: [
@@ -281,7 +282,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Ngorongoro Crater Rim",
       desc: "Gather for a festive safari. The Ngorongoro Crater floor and central Serengeti plains are bustling with wildlife herds, making for an unforgettable journey.",
       activityId: "safari",
-      img: "https://images.unsplash.com/photo-1521459467264-802e2ef3141f?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.unsplash.com/photo-nf7W_hn6DKQ?auto=format&fit=crop&w=800&q=80"
     }
   ]
 };

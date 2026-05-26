@@ -185,9 +185,9 @@ export const ACTIVITIES: Activity[] = [
     desc: "Reefs, turtles, and colorful fish - ideal for beginners and experienced divers.",
     detailedDesc: "Uncover a vibrant underwater kingdom. Snorkel and dive through protected coral gardens and deep walls at Mnemba Atoll, where dolphins jump alongside your boat and turtles feed off the sea grasses.",
     images: {
-      card: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80",
-      banner: "https://images.unsplash.com/photo-1546026423-cc4642628d2b?auto=format&fit=crop&w=1200&q=80",
-      thumbnail: "https://images.unsplash.com/photo-1560275669-46c5a88d6a4c?auto=format&fit=crop&w=300&q=80"
+      card: "https://images.unsplash.com/photo-9y7y26C-l4Y?auto=format&fit=crop&w=800&q=80",
+      banner: "https://images.unsplash.com/photo-9y7y26C-l4Y?auto=format&fit=crop&w=1200&q=80",
+      thumbnail: "https://images.unsplash.com/photo-9y7y26C-l4Y?auto=format&fit=crop&w=300&q=80"
     },
     location: "Mnemba Atoll, Mafia Marine Park",
     tags: ["Snorkel", "Dive", "Reefs"],
@@ -421,9 +421,9 @@ export const ACTIVITIES: Activity[] = [
     desc: "Track our closest relatives through the forests of Gombe Stream and Mahale Mountains. Jane Goodall began her legendary chimpanzee research at Gombe — and you can follow in her footsteps.",
     detailedDesc: "Tanzania is home to two world-class chimpanzee trekking destinations: Gombe Stream National Park on the eastern shore of Lake Tanganyika — made famous by Dr Jane Goodall's lifelong research — and the remote Mahale Mountains, accessible only by boat, where habituated chimpanzee communities roam free. Treks are led by certified TANAPA guides and park rangers, with group sizes strictly limited to protect the primates.",
     images: {
-      card: "https://images.pexels.com/photos/37085311/pexels-photo-37085311.jpeg?auto=compress&cs=tinysrgb&w=800",
-      banner: "https://images.pexels.com/photos/37085311/pexels-photo-37085311.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      thumbnail: "https://images.pexels.com/photos/37085311/pexels-photo-37085311.jpeg?auto=compress&cs=tinysrgb&w=300"
+      card: "https://images.unsplash.com/photo-xttQG4YyJ6I?auto=format&fit=crop&w=800&q=80",
+      banner: "https://images.unsplash.com/photo-xttQG4YyJ6I?auto=format&fit=crop&w=1200&q=80",
+      thumbnail: "https://images.unsplash.com/photo-xttQG4YyJ6I?auto=format&fit=crop&w=300&q=80"
     },
     location: "Gombe Stream & Mahale Mountains",
     tags: ["Chimpanzees", "Primates", "Forest Trek"],
@@ -451,9 +451,9 @@ export const ACTIVITIES: Activity[] = [
     desc: "Tanzania hosts over 1,100 bird species — one of the highest concentrations in Africa. From millions of lesser flamingos at Lake Natron to forest hornbills and coastal waders, every landscape delivers.",
     detailedDesc: "Tanzania is a world-class birding destination, with habitats ranging from alpine Kilimanjaro montane forest to the Serengeti's open savannah, Rufiji Delta mangroves, and Lake Natron's soda flats. November to April brings millions of migratory species from Europe and Asia. Lake Manyara's fig forest hosts the largest breeding colony of pink-backed pelicans in East Africa, while Lake Natron is the primary breeding site for lesser flamingos on the continent.",
     images: {
-      card: "https://images.unsplash.com/photo-1510798831971-661eb04b3739?auto=format&fit=crop&w=800&q=80",
-      banner: "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?auto=format&fit=crop&w=1200&q=80",
-      thumbnail: "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=300&q=80"
+      card: "https://images.unsplash.com/photo-T0hhz0_Lydc?auto=format&fit=crop&w=800&q=80",
+      banner: "https://images.unsplash.com/photo-T0hhz0_Lydc?auto=format&fit=crop&w=1200&q=80",
+      thumbnail: "https://images.unsplash.com/photo-T0hhz0_Lydc?auto=format&fit=crop&w=300&q=80"
     },
     location: "Lake Natron, Lake Manyara, Rufiji Delta",
     tags: ["Flamingos", "Birding", "Migratory Species"],
