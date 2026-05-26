@@ -28,9 +28,9 @@ export const PLACES: Place[] = [
     badge: "SAFARI CROWN JEWEL",
     desc: "Vast golden grasslands, classic acacia thorn trees, and massive animal migrations. Serengeti offers unmatched sightings of prides of lions, cheetah sprints, and the epic Wildebeest Great Migration.",
     images: {
-      card: "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=600&q=80",
-      banner: "https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?auto=format&fit=crop&w=1200&q=80",
-      map: "https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=300&q=80"
+      card: "https://images.pexels.com/photos/10222036/pexels-photo-10222036.jpeg?auto=compress&cs=tinysrgb&w=800",
+      banner: "https://images.pexels.com/photos/10222036/pexels-photo-10222036.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      map: "https://images.pexels.com/photos/10222036/pexels-photo-10222036.jpeg?auto=compress&cs=tinysrgb&w=300"
     },
     coords: "2.1540° S, 34.6857° E",
     temp: "26°C / 78°F",
@@ -47,9 +47,9 @@ export const PLACES: Place[] = [
     badge: "VOLCANIC CALDERA WONDER",
     desc: "A massive, intact volcanic caldera harboring over 25,000 large mammals in a self-contained ecological haven. Home to the highest density of predators and rare black rhinos.",
     images: {
-      card: "https://images.unsplash.com/photo-1504567961542-e24d9439a724?auto=format&fit=crop&w=600&q=80",
-      banner: "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?auto=format&fit=crop&w=1200&q=80",
-      map: "https://images.unsplash.com/photo-1511497584788-876760111969?auto=format&fit=crop&w=300&q=80"
+      card: "https://images.pexels.com/photos/18387270/pexels-photo-18387270.jpeg?auto=compress&cs=tinysrgb&w=800",
+      banner: "https://images.pexels.com/photos/18387270/pexels-photo-18387270.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      map: "https://images.pexels.com/photos/18387270/pexels-photo-18387270.jpeg?auto=compress&cs=tinysrgb&w=300"
     },
     coords: "3.2444° S, 35.4807° E",
     temp: "22°C / 72°F",
@@ -66,9 +66,9 @@ export const PLACES: Place[] = [
     badge: "THE ROOF OF AFRICA",
     desc: "Tanzania's sleeping volcanic giant is the highest free-standing mountain in the world (5,895m). Traverse through 5 distinct climatic zones, from tropical rain forests to absolute arctic glaciers.",
     images: {
-      card: "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=600&q=80",
-      banner: "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=1200&q=80",
-      map: "https://images.unsplash.com/photo-1527004013197-933c4bb611b3?auto=format&fit=crop&w=300&q=80"
+      card: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800",
+      banner: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      map: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=300"
     },
     coords: "3.0674° S, 37.3556° E",
     temp: "-5°C / 23°F (Summit)",
@@ -104,9 +104,9 @@ export const PLACES: Place[] = [
     badge: "MARINE REEF SANCTUARY",
     desc: "A quiet, serene island sanctuary offering magical snorkeling with whale sharks and harmless jellyfish. Known for deep-sea diving, mangroves, and secluded historic ruins.",
     images: {
-      card: "https://images.unsplash.com/photo-1504681869592-d300d790c279?auto=format&fit=crop&w=600&q=80",
-      banner: "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?auto=format&fit=crop&w=1200&q=80",
-      map: "https://images.unsplash.com/photo-1454789548928-9efd52dc4031?auto=format&fit=crop&w=300&q=80"
+      card: "https://images.pexels.com/photos/1021073/pexels-photo-1021073.jpeg?auto=compress&cs=tinysrgb&w=800",
+      banner: "https://images.pexels.com/photos/1021073/pexels-photo-1021073.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      map: "https://images.pexels.com/photos/1021073/pexels-photo-1021073.jpeg?auto=compress&cs=tinysrgb&w=300"
     },
     coords: "7.8541° S, 39.8166° E",
     temp: "28°C / 82°F",

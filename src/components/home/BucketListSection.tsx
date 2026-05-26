@@ -7,17 +7,18 @@ import HDImage from "@/components/HDImage";
 import { MONTHLY_GUIDES, MonthlyActivity } from "@/data/monthly-guides";
 import { ACTIVITIES } from "@/data/activities";
 
-function getGuideImage(guide: MonthlyActivity): string {
-  return guide.img ?? ACTIVITIES.find(a => a.id === guide.activityId)?.images.card ?? "";
+function getGuideImage(card: MonthlyActivity): string {
+  return card.bucketListImg ?? card.img ?? ACTIVITIES.find(a => a.id === card.activityId)?.images.card ?? "";
 }
 
 export default function BucketListSection() {
   const scrollRef = useRef<HTMLDivElement>(null);
 
-  // Collect all bucket-list-tagged monthly guide entries in chronological month order
+  // Collect all bucket-list-tagged monthly guide entries in chronological month order, then sort by bucketListOrder
   const bucketListCards = Object.values(MONTHLY_GUIDES)
     .flat()
-    .filter(g => g.bucketList);
+    .filter(g => g.bucketList)
+    .sort((a, b) => (a.bucketListOrder ?? 99) - (b.bucketListOrder ?? 99));
 
   const scroll = (direction: "left" | "right") => {
     if (scrollRef.current) {

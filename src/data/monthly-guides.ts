@@ -11,6 +11,8 @@ export interface MonthlyActivity {
   bucketListIndex?: string;
   bucketListTitle?: string;
   bucketListSubtitle?: string;
+  bucketListOrder?: number;
+  bucketListImg?: string;
 }
 
 export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
@@ -26,7 +28,8 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       bucketList: true,
       bucketListIndex: "INTRO",
       bucketListTitle: "THIS IS EXACTLY WHERE I'M MEANT TO BE.",
-      bucketListSubtitle: "TANZANIA WILDLIFE"
+      bucketListSubtitle: "TANZANIA WILDLIFE",
+      bucketListOrder: 1
     },
     {
       id: "january-island-escapes",
@@ -59,7 +62,8 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       bucketList: true,
       bucketListIndex: "MID",
       bucketListTitle: "DRIFTING WITH THE WHALE SHARKS",
-      bucketListSubtitle: "OF MAFIA ISLAND"
+      bucketListSubtitle: "OF MAFIA ISLAND",
+      bucketListOrder: 3
     }
   ],
   march: [
@@ -79,11 +83,11 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Mount Meru Conservation Area",
       desc: "Enjoy active day hikes through lush montane forests. Spot black-and-white colobus monkeys and enjoy beautiful waterfalls flowing off the volcanic slopes.",
       activityId: "hiking",
-      img: "https://images.unsplash.com/photo-1432406186174-8b2b3b58f1a0?auto=format&fit=crop&w=800&q=80",
       bucketList: true,
       bucketListIndex: "#6",
       bucketListTitle: "DISCOVERING THE HIDDEN FALLS",
-      bucketListSubtitle: "OF MPANGA KIPENGERE"
+      bucketListSubtitle: "OF MPANGA KIPENGERE",
+      bucketListOrder: 5
     }
   ],
   april: [
@@ -94,11 +98,11 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Kitulo Plateau Grasslands",
       desc: "Explore the 'Garden of God'. April brings a spectacular explosion of orchids, irises, and lilies across the highland meadows of Kitulo Plateau National Park.",
       activityId: "hiking",
-      img: "https://images.unsplash.com/photo-1465146344425-f00d5f5c8f07?auto=format&fit=crop&w=800&q=80",
       bucketList: true,
       bucketListIndex: "#3",
       bucketListTitle: "WALKING THROUGH THE BLOOMS",
-      bucketListSubtitle: "OF KITULO"
+      bucketListSubtitle: "OF KITULO",
+      bucketListOrder: 4
     },
     {
       id: "april-swahili-culinary",
@@ -118,11 +122,13 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Kilwa Kisiwani UNESCO ruins",
       desc: "Explore 14th-century Great Mosque stone archways, Sultan palaces, and Bagamoyo's deep colonial trading ports without off-season rushes.",
       activityId: "swahili-culture",
-      img: "https://images.unsplash.com/photo-1546961329-78bef0414d7c?auto=format&fit=crop&w=800&q=80",
+      img: "https://images.pexels.com/photos/33075905/pexels-photo-33075905.jpeg?auto=compress&cs=tinysrgb&w=800",
       bucketList: true,
       bucketListIndex: "#7",
       bucketListTitle: "EXPLORING THE ANCIENT RUINS",
-      bucketListSubtitle: "OF KILWA"
+      bucketListSubtitle: "OF KILWA",
+      bucketListOrder: 6,
+      bucketListImg: "https://images.pexels.com/photos/6342313/pexels-photo-6342313.jpeg?auto=compress&cs=tinysrgb&w=800"
     },
     {
       id: "may-paje-pampering",
@@ -142,11 +148,12 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Machame & Lemosho Gates",
       desc: "The dry climbing season officially begins. Clear blue skies, crisp alpine air, and excellent trail conditions make June perfect to summit Uhuru Peak.",
       activityId: "hiking",
-      img: "https://images.unsplash.com/photo-1522163182402-834f871fd851?auto=format&fit=crop&w=800&q=80",
+      img: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800",
       bucketList: true,
       bucketListIndex: "#1",
       bucketListTitle: "REACHING THE ROOF OF AFRICA",
-      bucketListSubtitle: "MOUNT KILIMANJARO"
+      bucketListSubtitle: "MOUNT KILIMANJARO",
+      bucketListOrder: 2
     },
     {
       id: "june-mnemba-diving",
@@ -195,7 +202,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       location: "Mount Meru volcanic rim",
       desc: "Take on a rugged trekking challenge. Summit Mount Meru (4,562m) under clear dry skies with breathtaking views of Mount Kilimanjaro rising in the distance.",
       activityId: "hiking",
-      img: "https://images.unsplash.com/photo-1501555088652-021faa106b9b?auto=format&fit=crop&w=800&q=80"
+      img: "https://images.pexels.com/photos/7463697/pexels-photo-7463697.jpeg?auto=compress&cs=tinysrgb&w=800"
     }
   ],
   september: [
@@ -225,8 +232,7 @@ export const MONTHLY_GUIDES: Record<string, MonthlyActivity[]> = {
       badge: "OCTOBER 2026",
       location: "Gombe Stream • Mahale Mountains",
       desc: "Track our closest relatives. Dry forest pathways are easily accessible, offering intimate chimpanzee family encounters in Gombe Stream.",
-      activityId: "chimp-trekking",
-      img: "https://images.unsplash.com/photo-1456926631375-92c8ce872def?auto=format&fit=crop&w=800&q=80"
+      activityId: "chimp-trekking"
     },
     {
       id: "october-coral-reef-diving",

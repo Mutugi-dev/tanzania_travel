@@ -93,9 +93,9 @@ export const ACTIVITIES: Activity[] = [
     desc: "Summit Mount Kilimanjaro (the Roof of Africa, 5,895m) or climb the rugged volcanic peak of Mount Meru. Trek through Kitulo's blooming highland grasslands, known as the 'Garden of God'.",
     detailedDesc: "Take on the ultimate trekking challenge: Mount Kilimanjaro, the highest free-standing peak on the planet. Journey through five distinct climatic zones, starting in lush tropical rain forests and finishing on absolute arctic glaciers. Backed by highly equipped alpine teams, high-spec tents, and deep oxygen safety monitoring.",
     images: {
-      card: "https://images.unsplash.com/photo-1578496781985-47f199917d08?auto=format&fit=crop&w=800&q=80",
-      banner: "https://images.unsplash.com/photo-1589553460732-5967c7b57890?auto=format&fit=crop&w=1200&q=80",
-      thumbnail: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=300&q=80"
+      card: "https://images.pexels.com/photos/37054850/pexels-photo-37054850.jpeg?auto=compress&cs=tinysrgb&w=800",
+      banner: "https://images.pexels.com/photos/37054850/pexels-photo-37054850.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      thumbnail: "https://images.pexels.com/photos/37054850/pexels-photo-37054850.jpeg?auto=compress&cs=tinysrgb&w=300"
     },
     location: "Mount Kilimanjaro, Mount Meru",
     tags: ["Mountaineering", "Kilimanjaro Summit", "Alpine Grasslands"],
@@ -421,9 +421,9 @@ export const ACTIVITIES: Activity[] = [
     desc: "Track our closest relatives through the forests of Gombe Stream and Mahale Mountains. Jane Goodall began her legendary chimpanzee research at Gombe — and you can follow in her footsteps.",
     detailedDesc: "Tanzania is home to two world-class chimpanzee trekking destinations: Gombe Stream National Park on the eastern shore of Lake Tanganyika — made famous by Dr Jane Goodall's lifelong research — and the remote Mahale Mountains, accessible only by boat, where habituated chimpanzee communities roam free. Treks are led by certified TANAPA guides and park rangers, with group sizes strictly limited to protect the primates.",
     images: {
-      card: "https://images.unsplash.com/photo-1540573133827-2e116e78877a?auto=format&fit=crop&w=800&q=80",
-      banner: "https://images.unsplash.com/photo-1516912481808-3406841bd33c?auto=format&fit=crop&w=1200&q=80",
-      thumbnail: "https://images.unsplash.com/photo-1522030299832-26194310dd2c?auto=format&fit=crop&w=300&q=80"
+      card: "https://images.pexels.com/photos/37085311/pexels-photo-37085311.jpeg?auto=compress&cs=tinysrgb&w=800",
+      banner: "https://images.pexels.com/photos/37085311/pexels-photo-37085311.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      thumbnail: "https://images.pexels.com/photos/37085311/pexels-photo-37085311.jpeg?auto=compress&cs=tinysrgb&w=300"
     },
     location: "Gombe Stream & Mahale Mountains",
     tags: ["Chimpanzees", "Primates", "Forest Trek"],
